@@ -20,7 +20,7 @@
 
 https://www.w3schools.com/js/default.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Tyler Potts - https://www.youtube.com/watch?v=YZhKA89LhcA&t=959s
+https://www.youtube.com/watch?v=YZhKA89LhcA&t=959s
 
 ## License
 
