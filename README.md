@@ -4,8 +4,8 @@
 
 - Javascript is an extremely important aspect of web development.
 - I built this project to practice working on Javascript with prompts, variables and functions to generate an outcome from User input.
-- This website is now able to generate a password off the users.
-- In working on this project i learned the basic functionality off Javascript and how to impliment it into the website to be able to work off the users inputs to generate a random selection between numbers, letters and symbols that i provided for the password generation. 
+- This website is now able to generate a password off the users inputs.
+- In working on this project i learned the basic functionality of Javascript and how to impliment it into the website to be able to work off the users inputs to generate a random selection between numbers, letters and symbols that i provided for the password generation. 
 
 
 ## Usage
